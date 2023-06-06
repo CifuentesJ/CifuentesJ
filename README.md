@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-🔭I'm currently working like a teacher in a robotic program to kids<br>👨‍💻📱I'm looking to become a software developer<br>🖥️I am passionate about programming and code challenges<br>📚I started this path from mid-2021<br>🙌🏼In the academy I have developed several projects using the SCRUM methodology<br>📫My learning has been largely autonomous and it is something I enjoy<br>I've worked on collaborative projects that can be seen in the organization on gitHub<br>⚡I consider myself a persistent person with a high tolerance for frustration.
+🔭I'm currently working like a teacher in a robotic program to kids<br>🌱I am currently studying Electronic Engineering at the same time as programming<br>👨‍💻📱I'm looking to become a software developer<br>🖥️I am passionate about programming and code challenges<br>📚I started this path from mid-2021<br>🙌🏼In the academy I have developed several projects using the SCRUM methodology<br>📫My learning has been largely autonomous and it is something I enjoy<br>🤔I've worked on collaborative projects that can be seen in the organization on gitHub<br>⚡I consider myself a persistent person with a high tolerance for frustration.
 
 
 ## 🌐 Socials:
